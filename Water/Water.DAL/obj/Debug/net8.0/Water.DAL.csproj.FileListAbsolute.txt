@@ -1,0 +1,13 @@
+/home/steve2312/Documents/Water/Water/Water.DAL/bin/Debug/net8.0/Water.DAL.deps.json
+/home/steve2312/Documents/Water/Water/Water.DAL/bin/Debug/net8.0/Water.DAL.dll
+/home/steve2312/Documents/Water/Water/Water.DAL/bin/Debug/net8.0/Water.DAL.pdb
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.csproj.AssemblyReference.cache
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.AssemblyInfoInputs.cache
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.AssemblyInfo.cs
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.csproj.CoreCompileInputs.cache
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.sourcelink.json
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.dll
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/refint/Water.DAL.dll
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/Water.DAL.pdb
+/home/steve2312/Documents/Water/Water/Water.DAL/obj/Debug/net8.0/ref/Water.DAL.dll

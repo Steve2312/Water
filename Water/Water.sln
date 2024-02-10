@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water.API", "Water.API\Water.API.csproj", "{73CE9ABA-569E-4A07-84A3-2DBAE68ED61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Water.DAL", "Water.DAL\Water.DAL.csproj", "{B8B34EAA-84C2-4937-AD58-96AEF7D5F5F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73CE9ABA-569E-4A07-84A3-2DBAE68ED61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CE9ABA-569E-4A07-84A3-2DBAE68ED61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CE9ABA-569E-4A07-84A3-2DBAE68ED61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CE9ABA-569E-4A07-84A3-2DBAE68ED61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B34EAA-84C2-4937-AD58-96AEF7D5F5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B34EAA-84C2-4937-AD58-96AEF7D5F5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B34EAA-84C2-4937-AD58-96AEF7D5F5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B34EAA-84C2-4937-AD58-96AEF7D5F5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

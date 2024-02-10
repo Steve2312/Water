@@ -1,0 +1,3 @@
+
+{csharpsquid:S101"_Rename class 'CreateUserDTO' to match pascal case naming rules, consider using 'CreateUserDto'.(ÙôÿÅ
+_csharpsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÙôÿÅ
