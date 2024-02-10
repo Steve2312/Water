@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Water.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+364ace622f7a3bab92ac800629803bf1f1705c57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625ae3a78abd115a7ac8eae0335bfbeb6e2b2606")]
 [assembly: System.Reflection.AssemblyProductAttribute("Water.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Water.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
