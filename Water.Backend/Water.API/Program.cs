@@ -31,6 +31,16 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<ISubjectUserMapRepository, SubjectUserMapRepository>();
 
 builder.Services.AddScoped<IClaimsPrincipalUtil, ClaimsPrincipalUtil>();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("production", policy =>
+    {
+        policy
+            .WithOrigins("http://localhost:5173")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -79,6 +89,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("production");
 
 app.UseAuthentication();
 
